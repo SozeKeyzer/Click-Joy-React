@@ -1,8 +1,7 @@
 export const style=[{
     position:"relative",
     fontFamily: "Arial",
-    left:"40%",
-    top:"12%"
+    left:"40%"
 },
 {
     position:"absolute",
