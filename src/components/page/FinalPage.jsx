@@ -17,7 +17,7 @@ export default function FinalPage() {
             direction="{1}"
             mode="normal"
         />
-        <h3>Sure let,s gooo!!</h3>
+        <h3>Sure let's gooo!!</h3>
     </div>
   )
 }
